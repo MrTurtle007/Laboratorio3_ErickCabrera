@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Acerca de mí</string>
+    <string name="todo">TODO</string>
+    <string name="mi_nombre">Erick Cabrera Casillas</string>
+    <string name="mi_info">
+        Estudio la carrera de Ingeniería en Tecnologías Computacionales en la Universidad Autónoma de Zacatecas Campus Jalpa
+        \nUn día más - Un trabajo más
+        \nAl Servicio Secreto de su Majestad
+    </string>
+    <string name="lbl_info">Información de contacto</string>
+    <string name="num_telefono">(463) 952 00 30</string>
+    <string name="correo1">erik.ceci22@gmail.com</string>
+    <string name="correo2">erick.cabrera@gmail.com</string>
+    <string name="facebook">Tiger Claw</string>
+    <string name="instragram">mr.turtle007</string>
+    <string name="twitter">Mr. Turtle 007</string>
+    <string name="lbl_direccion">Dirección</string>
+    <string name="txt_direccion">
+        País: México\nEstado: Zacatecas\nMunicipio: Huanusco\nComunidad: Ciénega de Abajo\nCalle: Guerrero #3
+    </string>
+</resources>
